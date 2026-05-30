@@ -6,7 +6,7 @@ SaaS platform solo from the ground up.
 
 ## What I Built
 
-### 🗺️ Pathless Planner — Travel Itinerary Platform
+### 🗺️ Planit Traveler — Travel Itinerary Platform
 Production full-stack app · [planittraveler.com](https://planittraveler.com)
 
 Built and self-deployed end-to-end with no team and no budget.
